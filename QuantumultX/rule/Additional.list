@@ -1,4 +1,7 @@
 HOST-SUFFIX,javdb.com,香港节点
 HOST-SUFFIX,jdbstatic.com,香港节点
 HOST-SUFFIX,18comic.vip,香港节点
-HOST-SUFFIX,fmta.boo,DIRECT
+HOST,cinema.fmta.boo,DIRECT
+HOST,theater.fmta.boo,DIRECT
+HOST,anime.fmta.boo,DIRECT
+HOST,restrict.fmta.boo,DIRECT
